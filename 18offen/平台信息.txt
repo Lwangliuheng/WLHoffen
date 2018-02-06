@@ -1,0 +1,272 @@
+邮箱：
+http://exmail.qq.com/login
+
+禅道:
+http://bug.shareslink.com/zentao/my/
+
+测试后台：
+https://min-tst.shareslink.com
+
+
+http://localhost:3001/html/index.html#/login
+
+http://192.168.1.131:3009 演示系统
+
+http://192.168.95.1:3001/html/index.html#/login
+
+D:\works\www.shareslink.com\03.ApplicationModule\09.ShareslinkEMA\src\main\webapp
+
+http://min-dev.shareslink.com/login;jsessionid=25F18984519CE8E4FE9F28D8C2929B0C  后台系统
+
+puer-proxy -t http://192.168.1.135:3009 -c /backend/
+
+四个后台项目
+git clone git@gitee.com:rover0321/BR_Adm.git 
+git clone git@gitee.com:rover0321/BR_Wex.git
+git clone git@gitee.com:rover0321/BR_SVC.git
+git clone git@gitee.com:rover0321/BR_Web.git
+
+
+ema帐号：
+1805170643@qq.com  企业     6212260200115423887
+zhangwei@shareslink.com 个人
+
+
+18001120831 
+123456
+
+13911938658
+123456
+
+15010907860	
+123456
+
+
+17801079286 
+123456
+
+
+/backend/account/isEmailExisted　GET String email
+
+
+wangliuheng@shareslink.com
+
+1156027864@qq.com
+
+18051706431@qq.com
+
+johnson@shareslink.com
+
+
+
+wangliuheng@shareslink.com
+
+947891131@qq.com
+13303051675
+130229199101204816
+6212260200122816263
+
+
+E1492129447038019545	18601257934	1	北京金股链科技有限公司	NULL	NULL	johnson@shareslink.com
+E1492129597919570405	18519585372	1	曾强生	NULL	NULL	boss@sharesdoc.com
+E1492131585041847727	15911105370	1	万达集团	NULL	NULL	1805170643@qq.com
+E1492131872822313058	18514543989	1	张玉龙	NULL	NULL	1156027864@qq.com
+
+18518316799（公司）
+123456
+
+18514543989（个人）
+123456
+微信小程序
+1805170643@qq.com  企业
+zhangwei@shareslink.com 个人
+正式版
+
+公司账户： 4494763322@163.com
+
+个人账户：wangchao@shareslink.com
+
+接口测试：
+https://nei.netease.com
+shareslink_dev@163.com 
+dev.shares.com
+
+
+
+协议编辑器:
+https://www.hetongjia.com/contract/edit/2122
+1529345214@qq.com 
+qwer12345
+
+11011420120323242X
+
+公司邮箱：wangliuheng@shareslink.com   密码：Asdf12345 访问地址：https://exmail.qq.com/cgi-bin/loginpage
+
+bug
+系统地址：http://bug.shareslink.com/zentao/user-login.html 用户名：wangliuheng  密码：123456
+
+http://www.jb51.net/article/77037.htm 
+https://davidshimjs.github.io/qrcodejs/ 二维
+
+https://github.com/madrobby/zepto zepto其他模块
+
+key：9a621a769237615e36fe158651cc8e1f  
+http://lbs.amap.com/api/javascript-api/gettingstarted 高德地图  6212260200115423887
+
+公众号
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141016  官网
+https://www.w3cschool.cn/weixinkaifawendang/jxt31qci.html   w3c
+http://www.cnblogs.com/yank/p/3406308.html   
+小程序
+appid        wx7638883f93fe272c
+http://www.mamicode.com/info-detail-1671275.html 小程序
+http://www.w3cschool.cn/weixinapp/9wou1q8j.html 小程序
+https://mp.weixin.qq.com/debug/wxadoc/dev/index.html 小程序 （主要看同上）
+http://m.blog.csdn.net/article/details?id=54340608 小程序上传问题
+http://www.see-source.com/weixinwidget/detail.html?wid=135 小程序echart
+https://github.com/xiaolin3303/wx-charts/issues/57 小程序echartgithub文档
+https://github.com/xiaolin3303/wx-charts/issues/56 小程序echartgithub文档
+http://www.qingpingshan.com/rjbc/ios/205209.html 下拉刷新坑
+http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1909 小程序ios与安卓不能正常显示
+https://www.zhihu.com/question/52852717 小程序canvas坑
+
+
+
+http://www.runoob.com/angularjs/angularjs-tutorial.html 教程
+http://blog.csdn.net/dm_vincent/article/details/38705099 $apply原理
+http://www.cnblogs.com/darrenji/p/4981008.html    ng-router和ng-ui-router介绍
+
+http://www.w3school.com.cn/jquery/jquery_traversing_descendants.asp 文档jq
+http://hemin.cn/jq/index.html 文档jq
+http://www.jquery123.com/     jq
+http://jquery.com/
+
+http://www.cnblogs.com/zichi/p/html5-file-api.html file的使用。
+http://www.codesec.net/view/54614.html jq选择器
+
+http://www.jq-school.com/Article.aspx?page=3 jq插件
+http://www.jq22.com/ jq插件
+http://libs.baidu.com/jquery/2.0.0/jquery.js jq线上引用地址
+
+
+http://192.168.1.128:3001/website/helpCenter.html
+//
+http://localhost:8000/html/index.html#/help_center?prefix=plan&suffix=n1&target=0
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+
+http://www.runoob.com/html/html5-canvas.html canvas画布
+https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial/Drawing_text     canvas API
+https://developer.mozilla.org/zh-CN/docs/Web/API/CanvasRenderingContext2D/beginPath
+https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLCanvasElement/toDataURL
+
+http://www.cnblogs.com/jarson-7426/p/5191156.html nagularjs FileUploader服务插件
+http://fex.baidu.com/webuploader/doc/#WebUploader_Uploader_options webupload插件
+http://www.haorooms.com/post/input_file_leixing 真实上传文件到后端
+http://www.cnblogs.com/cai-rd/p/3930227.html 不支持file发送文件的插件
+http://m.blog.csdn.net/article/details?id=51915742  表单上传
+
+
+
+http://www.cnblogs.com/huansky/p/5684867.html 箭头函数
+https://segmentfault.com/a/1190000007685095   promise对象
+
+https://segmentfault.com/a/1190000003780523#articleHeader0 模块化开发
+http://www.ruanyifeng.com/blog/2012/11/require_js.html 阮一峰模块化重点require开发
+http://www.oschina.net/translate/optimize-requirejs-projects require合并
+http://www.cnblogs.com/ada-zheng/p/4330506.html  sea.js原理
+http://www.jianshu.com/p/ebdf2233e3fe  sea.js原理
+http://www.360doc.com/content/14/0806/16/11991_399875415.shtml sea.js原理
+http://yslove.net/seajs/ sea.js原理 全
+http://www.tuicool.com/articles/VZFNjyN  sea.js自动添加非CMD规范的模块
+http://blog.csdn.net/jobjava/article/details/42646557 sea.js手动添加非CMD规范的模块
+http://blog.csdn.net/jobjava/article/details/42646467  sea.js添加非CMD规范的模块
+http://yslove.net/actjs/assets/sea-modules/seajs/2.1.1/sj.js seajs线上引用网址
+http://www.runoob.com/w3cnote/webpack-tutorial.html webpack原理
+http://blog.csdn.net/qq_24122593/article/details/53096437  webpack原理
+http://blog.csdn.net/weiyastory/article/details/54344936 目前模块化开发打包工具
+http://www.jb51.net/article/53823.htm 面向对象开发
+
+http://blog.csdn.net/yzbben/article/details/60766994 移动虚拟键盘抬起布局变乱解决方案
+
+http://www.react-cn.com/downloads.html react下载以及学习
+http://blog.csdn.net/zhuzhiqiang_zhu/article/details/53505892 react与webpack的配置
+
+http://nodejs.cn/api/crypto.html   node.js
+http://www.runoob.com/nodejs/nodejs-npm.html node.js
+http://www.w3cschool.cn/nodejs/v9c81itv.html
+https://www.nodebeginner.org/index-zh-cn.html
+
+http://www.cnblogs.com/sunshine-2015/p/5515429.html 登录
+
+http://www.cnblogs.com/zhanghaoliang/p/5997619.html 时间格式化
+https://www.zhihu.com/question/20215561 webstocket
+
+
+http://zeroclipboard.org/  文字复制到剪贴板 兼容所有主流浏览器
+http://www.365mini.com/page/zeroclipboard-2_x-quick-start.htm
+http://www.jb51.net/article/22403.htm
+http://www.cnblogs.com/tylerdonet/p/4533782.html 
+
+http://blog.csdn.net/wlwanglu/article/details/52253002 object方法属性
+
+http://www.zhangxinxu.com/wordpress/2010/03/every-browser-support-html5-video/ video
+
+
+http://www.ruanyifeng.com/blog/computer/ 阮一峰
+http://www.zhufengpeixun.cn/article/141 es6
+http://www.cnblogs.com/sunshine-2015/p/5515429.html  shiro实现APP、web统一登录认证和权限管理
+
+http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html python
+https://segmentfault.com/a/1190000007434923 Object.defineProperty的作用
+
+http://www.jianshu.com/p/71adc4c903e6 react的es6书写
+http://www.ruanyifeng.com/blog/2007/11/mvc.html MVC阮一峰
+https://github.com/ruanyf/jstraining/blob/master/demos/README.md#backbone   全栈
+
+
+http://blog.csdn.net/icanlove/article/details/21989339/ Data
+
+
+http://ueditor.baidu.com/website/onlinedemo.html
+ 编译器
+http://ueditor.baidu.com/website/download.html 编译器
+
+angular
+http://www.cnblogs.com/liangliangjiang/p/6672228.html angular$scope生命周期
+
+vue
+http://www.cnblogs.com/pearl07/p/6252116.html  vue-cil
+http://www.jianshu.com/p/1626b8643676 vue搭建 http://www.cnblogs.com/wisewrong/p/6255817.html
+http://blog.csdn.net/zhumengzj/article/details/72783591 vue-cli安装失败解决方案
+http://www.oschina.net/question/12_44255?sort=default&p=4 CSS 预处理器（框架）：Sass、LESS 和 Stylus
+http://www.jb51.net/article/111046.htm vue引用其他组件
+http://blog.csdn.net/ansu2009/article/details/53305134 vue引用jq bootstrap
+http://blog.csdn.net/nongweiyilady/article/details/53611094 bootstrap图片无法显示
+http://m.jb51.net/article/119342.htm  axios 的安装
+https://segmentfault.com/q/1010000010425538?sort=created  vue_axios的作用
+https://segmentfault.com/a/1190000008010666 vue生命周期
+http://m.blog.csdn.net/Tank_in_the_street/article/details/72964979 $on与$emit
+
+
+react
+http://www.react-cn.com/docs/getting-started.html react
+http://www.css88.com/react/docs/thinking-in-react.html react中文文档
+https://zhuanlan.zhihu.com/p/24926575  react生命周期
+http://www.jianshu.com/p/9a60bedd0aa9 手工配react+webpack+es6
+http://blog.csdn.net/adzcsx2/article/details/52993633 脚手架yo 
+https://segmentfault.com/a/1190000006055973 脚手架create-react-app 
+http://blog.csdn.net/haoshidai/article/details/52244620  es6写法
+http://618cj.com/react-router4-0%E8%B7%AF%E7%94%B1%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3api/ react-router 4.0中文文档
+http://blog.csdn.net/sinat_17775997/article/details/77411324  react-router 4.0讲解
+http://blog.csdn.net/lihongxun945/article/details/49031383  es6导入导出
+https://segmentfault.com/a/1190000003810652 fetch坑
+http://www.cnblogs.com/diligenceday/p/5503777.html import
+调用super的原因：在ES6中，在子类的constructor中必须先调用super才能引用this。
+super(props)的目的：在constructor中可以使用this.props。
+https://yq.aliyun.com/articles/69516 immutable Api
+https://segmentfault.com/a/1190000002909224 immutable 中使用Map与fromJS的区别
+
+
+npm
+http://blog.csdn.net/chszs/article/details/50986354 npm使用指南

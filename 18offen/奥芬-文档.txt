@@ -1,0 +1,90 @@
+DOClever
+账号：王留恒
+密码：wang123456
+defaultValue={this.state.birthday == null || this.state.birthday == '' ? null : moment(birthday)}
+
+-- 测试环境：
+C端 http://test.999care.com 官网：http://101.200.175.74:3200/
+POC平台：http://poc.test.offencube.com 代理商平台：http://agent.test.offencube.com
+-- 生产环境：
+C端 http://c.999care.com 官网：http://www.offencube.com
+POC平台：http://poc.offencube.com 代理商平台：http://agent.offencube.com
+
+C端 http://c.999care.com 官网：http://www.offencube.com
+POC平台：http://poc.offencube.com 代理商平台：http://agent.offencube.com
+POC管理员 admin@bjoffen/a123456
+POC员工 zhangsan@bjoffen/a123456
+
+百度地图 key 6M8m5QopM6pUFos2UVXkQawLy36fT79T
+http://lbsyun.baidu.com/cms/jsapi/reference/jsapi_reference.html#a3b2 百度地图开发文档
+
+
+echerts引入地图
+http://blog.csdn.net/DekuiCaiNiao/article/details/71939147
+
+http://192.168.1.119:8086
+/mock-api/json/clientmember/member-verify/verification`
+
+http://101.200.175.74:10080/front-end/poc-hdmp-web/src/liuheng-10-24-pocUI Git 管理
+http://101.200.175.74:8090/html/web/projectinfo/projectinfo.html 接口文档 
+奥芬
+
+http://blog.csdn.net/wabiaozia/article/category/6085536  前端问题
+http://www.cnblogs.com/xiekeli/p/5607107.html http
+
+https://jingyan.baidu.com/article/2d5afd699cd7de85a3e28e6e.html .web装化成其他格式
+https://cloudconvert.com/ .web装化成其他格式
+
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/ GIT教程
+
+http://ueditor.baidu.com/website/ 富文编辑器
+ 
+react
+https://reactjs.org/docs/fragments.html api
+http://www.cnblogs.com/heyuqing/p/6844098.html
+https://my.oschina.net/u/1271438/blog/1487937 阿里dva
+http://www.cnblogs.com/zhangbob/p/7421527.html dva
+http://www.cnblogs.com/mliudong/p/5545122.html prop-types
+http://www.cnblogs.com/penghuwan/p/6796139.html prop-types
+http://momentjs.cn/ moment 时间管理
+http://blog.csdn.net/Daisukes/article/details/77746260 moment 时间管理
+http://www.cnblogs.com/lhb25/p/localforage-offline-storage-improved.html localForage
+http://www.cnblogs.com/daxiongblog/p/7182520.html set（）与map（）
+https://segmentfault.com/a/1190000010063220 setState的用法讲解
+http://www.lupaworld.com/article-262859-1.html  setState的用法讲解
+https://www.cnblogs.com/s-z-y/p/6519571.html react事件机制
+https://zhuanlan.zhihu.com/p/26742034 冒泡阻止
+
+
+https://zhuanlan.zhihu.com/p/24926575 生命周期的使用
+http://blog.csdn.net/sinat_17775997/article/details/77411324  react-router4.0的使用
+http://blog.csdn.net/haoshidai/article/details/52244620  reactES6书写规范
+
+
+http://jquery.cuishifeng.cn/jQuery_selector_context.html
+
+http://www.jb51.net/article/16271.htm url编码与解码
+
+https://www.cnblogs.com/hamsterPP/p/6763458.html  下载文件的方法
+
+https://tinypng.com/ 图片压缩网站
+
+
+微信小程序
+https://www.jianshu.com/p/8a2a730d9e60 组件
+
+
+函数声明：https://www.cnblogs.com/isaboy/p/javascript_function.html
+   块级作用域里面使用，提升和var一样。
+   全局作用域和函数作用域里面里面使用，整体提升。
+
+非箭头函数this指向：https://www.cnblogs.com/dongcanliang/p/7054176.html
+    1,函数的定义位置不影响其this指向，this指向只和调用函数的对象有关。
+    2,多层嵌套的对象，内部方法的this指向离被调用函数最近的对象（window也是对象，其内部对象调用方法的this指向内部对象， 而非window）
+箭头函数this指向：https://www.cnblogs.com/dongcanliang/p/7054176.html
+    1,由于箭头函数不绑定this， 它会捕获其所在（即定义的位置）上下文的this值， 作为自己的this值，
+    2,call() / apply() / bind() 方法对于箭头函数来说只是传入参数，对它的 this 毫无影响。
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000 GIT学习
+
+http://blog.csdn.net/koffuxu/article/details/39010803 git 协同工作
+https://www.cnblogs.com/haore147/p/4219673.html git 协同工作

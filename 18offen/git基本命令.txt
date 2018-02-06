@@ -1,0 +1,86 @@
+提交代码基本步骤
+
+合并主分支
+$ git merge master
+
+window+r 弹出cmd黑框
+cmd ipconfig 查看IP地址
+1.更新代码
+git pull
+
+2. 查看本地文件状态
+git status
+
+3. 添加需要提交的文件
+git add [文件名/文件路径]
+
+4. 提交更新
+git commit
+先按i变成编辑模式
+修复bug需要在编译器里面添加Bid然或是keywords 在后是description  
+commit 完以后会输入一个： 和 description   先按i变成编辑模式   然后输入keywords 和 description 输完后按Esc  然后输入:wq 
+git pull 拉取最新代码：（不是最新不能提交）然后Esc退出:wq
+5. 提交到服务器
+git push
+6. 查看log
+git log
+按q 退出
+7. 查看冲突
+git diff
+
+8. 添加所有
+git add .
+
+创建一个叫做"feature_x"的分支，并切换过去：
+git checkout -b feature_x
+切换回主分支：
+git checkout master
+再把新建的分支删掉：
+git branch -d feature_x
+除非你将分支推送到远端仓库，不然该分支就是 不为他人所见的：
+git push origin <branch>
+
+git fetch 相当于是从远程获取最新版本到本地，不会自动merge
+git branch -a 列出本地分支和远程分支
+
+9. 更行远程dev分支的代码到本地dev分支
+git pull origin dev
+
+10. 提交本地dev分支的代码到远程服务器的dev分支
+git push origin dev:dev
+
+11. 切换本地分支
+git checkout [branchname] | 例如： git checout dev / git checkout master
+
+切换到master分支：$git checkout master
+创建并切换分支： $ git checkout -b mybranch
+
+
+git 常用命令
+git pull：从其他的版本库（既可以是远程的也可以是本地的）将代码更新到本地，
+例如：'git pull origin master'就是将origin这个版本库的代码更新到本地的master主枝，该功能类似于SVN的update
+git add：是将当前更改或者新增的文件加入到Git的索引中，加入到Git的索引中就表示记入了版本历史中，
+这也是提交之前所需要执行的一步，例如'git add app/model/user.rb'就会增加app/model/user.rb文件到Git的索引中，该功能类似于SVN的add
+git rm：从当前的工作空间中和索引中删除文件，例如'git rm app/model/user.rb'，该功能类似于SVN的rm、del
+git commit：提交当前工作空间的修改内容，类似于SVN的commit命令，例如'git commit -m story #3, add user model'，
+提交的时候必须用-m来输入一条提交信息，该功能类似于SVN的commit
+git push：将本地commit的代码更新到远程版本库中，例如'git push origin'就会将本地的代码更新到名为orgin的远程版本库中
+git log：查看历史日志，该功能类似于SVN的log
+git revert：还原一个版本的修改，必须提供一个具体的Git版本号，例如'git revert bbaf6fb5060b4875b18ff9ff637ce118256d6f20'，Git的版本号都是生成的一个哈希值
+ 
+上面的命令几乎都是每个版本控制工具所公有的，下面就开始尝试一下Git独有的一些命令：
+git branch：对分支的增、删、查等操作，例如'git branch new_branch'会从当前的工作版本创建一个叫做new_branch的新分支，
+'git branch -D new_branch'就会强制删除叫做new_branch的分支，'git branch'就会列出本地所有的分支
+git checkout：Git的checkout有两个作用，其一是在不同的branch之间进行切换，例如'git checkout new_branch'就会切换到new_branch的分支上去；
+另一个功能是还原代码的作用，例如'git checkout app/model/user.rb'就会将user.rb文件从上一个已提交的版本中更新回来，未提交的内容全部会回滚
+
+
+
+出现错误的主要原因是github中的README.md文件不在本地代码目录中
+git pull --rebase origin master     进行代码合 
+git push -u origin master      代码上传
+
+如果想要放弃当前rebase操作，用
+git rebase --abort
+如果冲突已经解决，先add冲突文件，之后
+git rebase --continue

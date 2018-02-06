@@ -1,0 +1,71 @@
+ajax
+
+import http, { HTTP_ERROR_CODE } from 'services/http'
+ http
+      .get(`/api/systemmg/sysuser/getUser`)
+      .then(data => {
+        this.setState({
+          companyName: data.companyName
+        })
+      })
+      .catch(() => {
+        app.error('公司姓名获取失败')
+      })
+
+  http
+      .post(`/api/systemmg/sysuser/company/${this.state.userId}`)
+      .then(data => {
+        this.setState({
+          companyInfo: data,
+          ready: true
+        })
+      })
+      .catch(() => {
+        app.error('加载失败')
+      })
+
+
+ loadPocList() {
+    http
+      .get(`/api/systemmg/sysorg/${this.state.pocId}/getData`)
+      .then(data => {
+        this.setState({
+          pocList: data[0],
+          pocName: data[0].name
+        })
+      })
+      .catch(console.info)
+  }
+
+match 对象给我们提供了几个属性，包括 match.params、match.path、match.url 和其他几个。
+constructor(props) {
+    super(props)
+    this.state = {
+      //获取路由参数
+      clientId: props.match.params.id,
+      clientInfo: null
+    }
+  }
+
+ app.navigateTo(`/user/user-settings/${userInfo.id}`)
+
+moment(item.orderTime).format('YYYY-MM-DD hh:mm') 时间的转换
+
+this.handleIsAdmin.bind(this, data) bind传参数
+
+组件通信
+this.handleEvent('HTTP-ERROR', this.handleHttpError.bind(this)) 订阅事件
+app.emitEvent('HTTP-ERROR', 'UNAUTHORIZED') 发布事件
+
+
+
+
+管理员账户设置三级变二级样式
+二级
+<div style={{ display: 'inline-block', width: '300px', height: '35px', overflow: 'hidden' }}>
+              <CountySelector style={{ width: 140 }} code={this.state.bankAddress} onChange={this.countyBankAddress.bind(this)} />
+            </div>
+三级
+<div style={{ display: 'inline-block' }}>
+              <CountySelector style={{ width: 90 }} code={this.state.bankAddress} onChange={this.countyBankAddress.bind(this)} />
+            </div>
