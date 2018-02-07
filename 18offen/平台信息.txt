@@ -108,10 +108,10 @@ bug
 http://www.jb51.net/article/77037.htm 
 https://davidshimjs.github.io/qrcodejs/ ¶şÎ¬
 
-https://github.com/madrobby/zepto zeptoÆäËûÄ£¿é
+https://github.com/madrobby/zepto           zeptoÆäËûÄ£¿é
 
 key£º9a621a769237615e36fe158651cc8e1f  
-http://lbs.amap.com/api/javascript-api/gettingstarted ¸ßµÂµØÍ¼  6212260200115423887
+http://lbs.amap.com/api/javascript-api/gettingstarted    ¸ßµÂµØÍ¼  6212260200115423887
 
 ¹«ÖÚºÅ
 https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141016  ¹ÙÍø
@@ -136,17 +136,17 @@ http://www.runoob.com/angularjs/angularjs-tutorial.html ½Ì³Ì
 http://blog.csdn.net/dm_vincent/article/details/38705099 $applyÔ­Àí
 http://www.cnblogs.com/darrenji/p/4981008.html    ng-routerºÍng-ui-router½éÉÜ
 
-http://www.w3school.com.cn/jquery/jquery_traversing_descendants.asp ÎÄµµjq
-http://hemin.cn/jq/index.html ÎÄµµjq
-http://www.jquery123.com/     jq
+http://www.w3school.com.cn/jquery/jquery_traversing_descendants.asp   ÎÄµµjq
+http://hemin.cn/jq/index.html     ÎÄµµjq
+http://www.jquery123.com/        jq
 http://jquery.com/
 
-http://www.cnblogs.com/zichi/p/html5-file-api.html fileµÄÊ¹ÓÃ¡£
-http://www.codesec.net/view/54614.html jqÑ¡ÔñÆ÷
+http://www.cnblogs.com/zichi/p/html5-file-api.html       fileµÄÊ¹ÓÃ¡£
+http://www.codesec.net/view/54614.html        jqÑ¡ÔñÆ÷
 
-http://www.jq-school.com/Article.aspx?page=3 jq²å¼ş
-http://www.jq22.com/ jq²å¼ş
-http://libs.baidu.com/jquery/2.0.0/jquery.js jqÏßÉÏÒıÓÃµØÖ·
+http://www.jq-school.com/Article.aspx?page=3     jq²å¼ş
+http://www.jq22.com/      jq²å¼ş
+http://libs.baidu.com/jquery/2.0.0/jquery.js         jqÏßÉÏÒıÓÃµØÖ·
 
 
 http://192.168.1.128:3001/website/helpCenter.html
@@ -192,6 +192,7 @@ http://blog.csdn.net/yzbben/article/details/60766994 ÒÆ¶¯ĞéÄâ¼üÅÌÌ§Æğ²¼¾Ö±äÂÒ½â¾
 http://www.react-cn.com/downloads.html reactÏÂÔØÒÔ¼°Ñ§Ï°
 http://blog.csdn.net/zhuzhiqiang_zhu/article/details/53505892 reactÓëwebpackµÄÅäÖÃ
 
+node
 http://nodejs.cn/api/crypto.html   node.js
 http://www.runoob.com/nodejs/nodejs-npm.html node.js
 http://www.w3cschool.cn/nodejs/v9c81itv.html
