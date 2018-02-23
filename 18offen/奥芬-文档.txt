@@ -85,6 +85,7 @@ https://www.jianshu.com/p/8a2a730d9e60 组件
     1,由于箭头函数不绑定this， 它会捕获其所在（即定义的位置）上下文的this值， 作为自己的this值，
     2,call() / apply() / bind() 方法对于箭头函数来说只是传入参数，对它的 this 毫无影响。
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000 GIT学习
+https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000  js教程
 
 http://blog.csdn.net/koffuxu/article/details/39010803 git 协同工作
 https://www.cnblogs.com/haore147/p/4219673.html git 协同工作
