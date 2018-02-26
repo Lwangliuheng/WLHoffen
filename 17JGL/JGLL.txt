@@ -1,7 +1,7 @@
 
 移动开发：
 
-    http://blog.csdn.net/yzbben/article/details/60766994 移动虚拟键盘抬起布局变乱解决方案
+    http://blog.csdn.net/yzbben/article/details/60766994                                              移动虚拟键盘抬起布局变乱解决方案
     
 
 
@@ -10,25 +10,31 @@
 
 js模块化开发：
 
-    https://segmentfault.com/a/1190000003780523#articleHeader0 模块化开发
-    http://blog.csdn.net/weiyastory/article/details/54344936 目前模块化开发打包工具
-    http://www.jb51.net/article/53823.htm 面向对象开发
+    https://segmentfault.com/a/1190000003780523#articleHeader0                                        模块化开发
+    http://blog.csdn.net/weiyastory/article/details/54344936                                          目前模块化开发打包工具
+    http://www.jb51.net/article/53823.htm                                                             面向对象开发
+    
     require：
-    http://www.ruanyifeng.com/blog/2012/11/require_js.html 阮一峰模块化重点require开发
-    http://www.oschina.net/translate/optimize-requirejs-projects require合并
-    sea.js：
-    http://www.cnblogs.com/ada-zheng/p/4330506.html  sea.js原理
-    http://www.jianshu.com/p/ebdf2233e3fe  sea.js原理
-    http://www.360doc.com/content/14/0806/16/11991_399875415.shtml sea.js原理
-    http://yslove.net/seajs/ sea.js原理 全
-    http://www.tuicool.com/articles/VZFNjyN  sea.js自动添加非CMD规范的模块
-    http://blog.csdn.net/jobjava/article/details/42646557 sea.js手动添加非CMD规范的模块
-    http://blog.csdn.net/jobjava/article/details/42646467  sea.js添加非CMD规范的模块
-    http://yslove.net/actjs/assets/sea-modules/seajs/2.1.1/sj.js seajs线上引用网址
-    webpack：
-    http://www.runoob.com/w3cnote/webpack-tutorial.html webpack原理
-    http://blog.csdn.net/qq_24122593/article/details/53096437  webpack原理
 
+    http://www.ruanyifeng.com/blog/2012/11/require_js.html                                            阮一峰模块化重点require开发
+    http://www.oschina.net/translate/optimize-requirejs-projects                                      require合并
+    
+    sea.js： 
+
+    http://www.cnblogs.com/ada-zheng/p/4330506.html                                                   sea.js原理
+    http://www.jianshu.com/p/ebdf2233e3fe                                                             sea.js原理
+    http://www.360doc.com/content/14/0806/16/11991_399875415.shtml                                    sea.js原理
+    http://yslove.net/seajs/                                                                          sea.js原理 全
+    http://www.tuicool.com/articles/VZFNjyN                                                           sea.js自动添加非CMD规范的模块
+    http://blog.csdn.net/jobjava/article/details/42646557                                             sea.js手动添加非CMD规范的模块
+    http://blog.csdn.net/jobjava/article/details/42646467                                             sea.js添加非CMD规范的模块
+    http://yslove.net/actjs/assets/sea-modules/seajs/2.1.1/sj.js                                      seajs线上引用网址
+    
+    webpack：
+
+    http://www.runoob.com/w3cnote/webpack-tutorial.html                                               webpack原理
+    http://blog.csdn.net/qq_24122593/article/details/53096437                                         webpack原理
+    https://www.jianshu.com/p/42e11515c10f                                                            webpack入门
 
 js生成二维码：
 
