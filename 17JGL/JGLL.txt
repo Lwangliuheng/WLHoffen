@@ -35,7 +35,9 @@ js模块化开发：
     http://www.runoob.com/w3cnote/webpack-tutorial.html                                               webpack原理
     http://blog.csdn.net/qq_24122593/article/details/53096437                                         webpack原理
     https://www.jianshu.com/p/42e11515c10f                                                            webpack入门
-
+    http://blog.csdn.net/keliyxyz/article/details/51527476                                            Webpack进阶 （Webpack各个配置全解） 
+    http://www.css88.com/doc/webpack2/configuration/resolve/                                          Webpack进阶 （Webpack各个配置全解，看“第三部分”里的“配置”）
+  
 js生成二维码：
 
     http://www.jb51.net/article/77037.htm 
@@ -90,6 +92,11 @@ es6：
     http://www.cnblogs.com/huansky/p/5684867.html                                                       箭头函数
     https://segmentfault.com/a/1190000007685095                                                         promise对象
     http://www.ruanyifeng.com/blog/computer/                                                            阮一峰博客
+    http://es6.ruanyifeng.com/#docs/promise                                                             阮一峰ES6    
+    https://www.cnblogs.com/studyhtml5/p/7150576.html                                                   class里面的继承extends
+    https://www.cnblogs.com/lishuxue/p/6097575.html                                                     class里面的extends与static 
+    https://www.cnblogs.com/liutie1030/p/5997446.html                                                   class里面的super
+        
 
 
 H5：
@@ -131,7 +138,8 @@ zepto其他模块：
     https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141016                                 官网
     https://www.w3cschool.cn/weixinkaifawendang/jxt31qci.html                                         w3c 
     http://www.cnblogs.com/yank/p/3406308.html   
-
+    https://www.jianshu.com/p/bb88f7520b9e                                                            JSSDK的使用
+     
 
 微信小程序：
     
@@ -189,6 +197,9 @@ react：
     http://blog.csdn.net/lihongxun945/article/details/49031383                                        es6导入导出
     https://segmentfault.com/a/1190000003810652                                                       fetch坑
     http://www.cnblogs.com/diligenceday/p/5503777.html                                                import
+    http://wiki.jikexueyuan.com/project/react-tutorial/mixin.html                                     react中的Mixins    
+    https://www.jianshu.com/p/33cda0dc316a                                                            react中的PureComponent    
+    https://www.cnblogs.com/Unknw/p/6431375.html                                                      React Component的几种方式
 
     调用super的原因：在ES6中，在子类的constructor中必须先调用super才能引用this。
     super(props)的目的：在constructor中可以使用this.props。
@@ -207,6 +218,8 @@ vue：
     http://blog.csdn.net/nongweiyilady/article/details/53611094                                      bootstrap图片无法显示
     http://m.jb51.net/article/119342.htm                                                             axios 的安装
     https://segmentfault.com/q/1010000010425538?sort=created                                         vue_axios的作用
+    https://zhuanlan.zhihu.com/p/33918784                                                            vue_axios的好处
+    https://www.cnblogs.com/axl234/p/5899137.html                                                    vue-resource的使用
     https://segmentfault.com/a/1190000008010666                                                      vue生命周期
     http://m.blog.csdn.net/Tank_in_the_street/article/details/72964979                               $on与$emit
 
