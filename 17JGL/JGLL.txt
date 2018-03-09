@@ -96,7 +96,7 @@ es6：
     https://www.cnblogs.com/studyhtml5/p/7150576.html                                                   class里面的继承extends
     https://www.cnblogs.com/lishuxue/p/6097575.html                                                     class里面的extends与static 
     https://www.cnblogs.com/liutie1030/p/5997446.html                                                   class里面的super
-        
+    https://www.cnblogs.com/xiaoli52qd/p/7392700.html                                                   es5数组reduce    
 
 
 H5：
@@ -114,6 +114,11 @@ object方法属性：
 Data用法：
   
     http://blog.csdn.net/icanlove/article/details/21989339/                                             Data对象
+
+
+Function：
+
+    http://blog.csdn.net/ganyingxie123456/article/details/70855586                                      call与apply的区别
 
 
 jq：
@@ -161,6 +166,7 @@ zepto其他模块：
 
 
 node.js：
+
     http://nodejs.cn/api/crypto.html   node.js
     http://www.runoob.com/nodejs/nodejs-npm.html node.js
     http://www.w3cschool.cn/nodejs/v9c81itv.html
@@ -206,9 +212,12 @@ react：
 
     https://yq.aliyun.com/articles/69516                                                             immutable Api
     https://segmentfault.com/a/1190000002909224                                                      immutable 中使用Map与fromJS的区别
+    http://cn.rx.js.org/manual/installation.html                                                     Rxjs文档
+    https://segmentfault.com/a/1190000008464065                                                      Rxjs讲解
 
 
 vue：
+
     http://www.cnblogs.com/pearl07/p/6252116.html                                                    vue-cil
     http://www.jianshu.com/p/1626b8643676                                                            vue搭建 http://www.cnblogs.com/wisewrong/p/6255817.html
     http://blog.csdn.net/zhumengzj/article/details/72783591                                          vue-cli安装失败解决方案
@@ -222,7 +231,7 @@ vue：
     https://www.cnblogs.com/axl234/p/5899137.html                                                    vue-resource的使用
     https://segmentfault.com/a/1190000008010666                                                      vue生命周期
     http://m.blog.csdn.net/Tank_in_the_street/article/details/72964979                               $on与$emit
-
+    http://blog.csdn.net/u013861109/article/details/52429819                                         vue通过Object.defineProperty实现双向绑定
 
  
 
