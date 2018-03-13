@@ -103,6 +103,7 @@ H5：
 
     https://www.zhihu.com/question/20215561                                                             webstocket
     http://www.zhangxinxu.com/wordpress/2010/03/every-browser-support-html5-video/                      video
+    http://www.runoob.com/html/html5-websocket.html                                                     websocket
 
 
 object方法属性：
@@ -214,7 +215,8 @@ react：
     https://segmentfault.com/a/1190000002909224                                                      immutable 中使用Map与fromJS的区别
     http://cn.rx.js.org/manual/installation.html                                                     Rxjs文档
     https://segmentfault.com/a/1190000008464065                                                      Rxjs讲解
-
+    https://www.cnblogs.com/LSSSunshine/p/7340573.html                                               qs
+    
 
 vue：
 
@@ -232,7 +234,8 @@ vue：
     https://segmentfault.com/a/1190000008010666                                                      vue生命周期
     http://m.blog.csdn.net/Tank_in_the_street/article/details/72964979                               $on与$emit
     http://blog.csdn.net/u013861109/article/details/52429819                                         vue通过Object.defineProperty实现双向绑定
-
+    https://segmentfault.com/q/1010000009900181                                                      vuex module命名空间后的调用
+    https://vuex.vuejs.org/zh-cn/actions.html                                                        vuex讲解
  
 
     
