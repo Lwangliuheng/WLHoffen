@@ -1,11 +1,52 @@
+浏览器：
+    http://www.dailichun.com/2018/03/12/whenyouenteraurl.html                                   浏览器学习指导
+    https://funteas.com/topic/5a64e9482630e6f31583701d                                          浏览器进程（一样的http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html）
+    https://www.cnblogs.com/web-easy/p/5067680.html                                             浏览器解析过程
+    https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912                           浅析浏览器渲染前端页面机制
+    https://m.th7.cn/show/20/201611/196661.html                                                 执行Js
+
+css：
+   http://www.jb51.net/css/12199.html                                                               盒模型
+
+
+css3：
+
+   http://www.zhangxinxu.com/css3/                                                                  css3
+   http://www.w3school.com.cn/css3/css3_transition.asp                                              css3
+   https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Media_queries                             @madia
+   https://www.w3cplus.com/css3/pseudo-class-selector                                               css3伪类
+
 
 移动开发：
 
-    http://blog.csdn.net/yzbben/article/details/60766994                                              移动虚拟键盘抬起布局变乱解决方案
+    http://blog.csdn.net/yzbben/article/details/60766994                                            移动虚拟键盘抬起布局变乱解决方案
     
 
 
+js：
 
+   http://blog.csdn.net/A_dangdang/article/details/50986168                                         call apply bind
+   https://m.genshuixue.com/wenda/6780907.html                                                      语句与表达式                                              
+   https://www.thinksaas.cn/ask/question/28409/                                                     语句与表达式
+   https://zhidao.baidu.com/question/583316301.html                                                 src与href
+
+
+闭包与解析：
+   
+   https://zm12.sm-tc.cn/?src=l4uLj8XQ0IiIiNGckZ2TkJiM0ZyQktCTlpuQkZickdCejYuWnJOajNDLy8bOyc7I0ZeLkpM%3D&uid=23bebac50a1f60726fb663efdff4acb8&hid=02c277fbf7d15128dd47909356b6cfcd&pos=2&cid=9&time=1521193594100&from=click&restype=1&pagetype=0000000000000408&bu=web&query=%E4%B8%80%E4%B8%AA%E9%A1%B5%E9%9D%A2%E4%BB%8E%E8%BE%93%E5%85%A5+URL+%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E6%98%BE%E7%A4%BA%E5%AE%8C%E6%88%90%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%83%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F&mode=&v=1&force=true&wap=false&province=%E5%8C%97%E4%BA%AC%E5%B8%82&city=%E5%8C%97%E4%BA%AC%E5%B8%82&uc_param_str=dnntnwvepffrgibijbprsvdsdichei     输入浏览器的工作
+   https://m.jb51.net/softjc/67746.html                                                             浏览器都有哪些东西
+   http://blog.csdn.net/qq_22855325/article/details/72958345                                        js单线程，异步与同步的区别                        
+   https://zm12.sm-tc.cn/?src=l4uLj4zF0NCIiIjRnJGdk5CYjNGckJLQhZeIk9CP0MvJycvJz8vRl4uSkw%3D%3D&uid=23bebac50a1f60726fb663efdff4acb8&hid=24847867d77366b88be70df889e3e009&pos=3&cid=9&time=1521077140704&from=click&restype=1&pagetype=0020004000000402&bu=news_natural&query=js%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6&mode=&v=1&force=true&wap=false&uc_param_str=dnntnwvepffrgibijbprsvdsdichei     优化垃圾回收机制
+   https://zm12.sm-tc.cn/?src=l4uLj8XQ0JLRlZ3KztGRmovQno2LlpyTmtDIys3GzdGXi5I%3D&uid=23bebac50a1f60726fb663efdff4acb8&hid=24847867d77366b88be70df889e3e009&pos=2&cid=9&time=1521077140703&from=click&restype=1&pagetype=0080004002000402&bu=structure_web_info&query=js%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6&mode=&v=1&force=true&wap=false&uc_param_str=dnntnwvepffrgibijbprsvdsdichei             垃圾回收机制
+   https://zm12.sm-tc.cn/?src=l4uLj8XQ0IiIiNGckZ2TkJiM0ZyQktCGkIqHlpHQno2LlpyTmozQy87PzcfHzNGejI%2BH&uid=23bebac50a1f60726fb663efdff4acb8&hid=d9d2c78c54056ee8620d0523c08e1cb9&pos=2&cid=9&time=1521079713155&from=click&restype=1&pagetype=0000004000000402&bu=news_natural&query=%E7%BA%BF%E7%A8%8B%E4%B8%8E%E6%A0%88&mode=&v=1&force=true&wap=false&uc_param_str=dnntnwvepffrgibijbprsvdsdichei                   多线程中 堆和栈的区别
+   https://zm12.sm-tc.cn/?src=l4uLj4zF0NCFl5abnpDRnZ6Wm4rRnJCS0I6KmoyLlpCR0MzMzsjIzM3Jy9GXi5KT&uid=23bebac50a1f60726fb663efdff4acb8&hid=32b20b692d8260fb18747949e711be4f&pos=1&cid=9&time=1521080850433&from=click&restype=1&pagetype=0020000002000402&bu=structure_qna&query=%E4%BB%80%E4%B9%88%E6%98%AF%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2&mode=&v=1&force=true&wap=false&uc_param_str=dnntnwvepffrgibijbprsvdsdichei  内存泄露
+   http://blog.csdn.net/bdss58/article/details/51475778                                             闭包引发的内存泄露
+
+
+mvvm：
+  
+   https://www.jianshu.com/p/6aeeecd64dcf                                                           mvc与mvvm
+   http://blog.csdn.net/chun_long/article/details/52086565                                          MVVM简介与运用
 
 
 js模块化开发：
@@ -68,6 +109,8 @@ js登录原理：
     http://blog.csdn.net/wabiaozia/article/category/6085536                                            前端问题
     http://www.cnblogs.com/xiekeli/p/5607107.html http
     http://www.cnblogs.com/sunshine-2015/p/5515429.html
+    http://blog.csdn.net/woshihaiyong168/article/details/52857479                                       Token验证
+                                 
 
 
 canvas：
@@ -216,10 +259,13 @@ react：
     http://cn.rx.js.org/manual/installation.html                                                     Rxjs文档
     https://segmentfault.com/a/1190000008464065                                                      Rxjs讲解
     https://www.cnblogs.com/LSSSunshine/p/7340573.html                                               qs
-    
+    https://segmentfault.com/a/1190000010063220                                                      React之setState的正确打开方式
+    http://www.lupaworld.com/article-262859-1.html                                                   setState函数
+
 
 vue：
-
+    
+    http://web.jobbole.com/88870/                                                                    Vue 双向数据绑定原理分析
     http://www.cnblogs.com/pearl07/p/6252116.html                                                    vue-cil
     http://www.jianshu.com/p/1626b8643676                                                            vue搭建 http://www.cnblogs.com/wisewrong/p/6255817.html
     http://blog.csdn.net/zhumengzj/article/details/72783591                                          vue-cli安装失败解决方案
@@ -236,6 +282,6 @@ vue：
     http://blog.csdn.net/u013861109/article/details/52429819                                         vue通过Object.defineProperty实现双向绑定
     https://segmentfault.com/q/1010000009900181                                                      vuex module命名空间后的调用
     https://vuex.vuejs.org/zh-cn/actions.html                                                        vuex讲解
- 
-
+    https://www.cnblogs.com/xiaohuochai/p/7388866.html                                               vue的props写法
+    http://blog.csdn.net/gao_xu_520/article/details/76020365                                
     
