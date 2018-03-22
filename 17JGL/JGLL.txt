@@ -4,6 +4,7 @@
     https://www.cnblogs.com/web-easy/p/5067680.html                                             浏览器解析过程
     https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912                           浅析浏览器渲染前端页面机制
     https://m.th7.cn/show/20/201611/196661.html                                                 执行Js
+    https://www.zhihu.com/question/24002080/answer/31817536                                     OSI七层模型
 
 css：
    http://www.jb51.net/css/12199.html                                                               盒模型
@@ -29,6 +30,7 @@ js：
    https://m.genshuixue.com/wenda/6780907.html                                                      语句与表达式                                              
    https://www.thinksaas.cn/ask/question/28409/                                                     语句与表达式
    https://zhidao.baidu.com/question/583316301.html                                                 src与href
+   https://www.cnblogs.com/lujun1949/p/6500654.html?utm_source=itdadao&utm_medium=referral          src与href
 
 
 闭包与解析：
