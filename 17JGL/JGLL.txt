@@ -4,7 +4,9 @@
     https://www.cnblogs.com/web-easy/p/5067680.html                                             浏览器解析过程
     https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912                           浅析浏览器渲染前端页面机制
     https://m.th7.cn/show/20/201611/196661.html                                                 执行Js
+    https://www.zhihu.com/question/20531965/answer/15418794                                     <script> 标签引入脚本有三种情况
     https://www.zhihu.com/question/24002080/answer/31817536                                     OSI七层模型
+
 
 css：
    http://www.jb51.net/css/12199.html                                                               盒模型
