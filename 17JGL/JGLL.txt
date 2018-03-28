@@ -48,7 +48,8 @@ js：
 
 
 mvvm：
-  
+   
+   https://www.cnblogs.com/jinguangguo/p/3534422.html                                               mvc
    https://www.jianshu.com/p/6aeeecd64dcf                                                           mvc与mvvm
    http://blog.csdn.net/chun_long/article/details/52086565                                          MVVM简介与运用
 
