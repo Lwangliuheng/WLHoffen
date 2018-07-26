@@ -3,7 +3,7 @@
     https://funteas.com/topic/5a64e9482630e6f31583701d                                          浏览器进程（一样的http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html）
     https://www.cnblogs.com/web-easy/p/5067680.html                                             浏览器解析过程
     https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912                           浅析浏览器渲染前端页面机制
-    https://m.th7.cn/show/20/201611/196661.html                                                 执行Js
+    https://m.th7.cn/show/20/201611/196661.html                                                     执行Js
     https://www.zhihu.com/question/20531965/answer/15418794                                     <script> 标签引入脚本有三种情况
     https://blog.csdn.net/yanxiaolx/article/details/51763372                                    进程线程
     https://www.jianshu.com/p/b00db2754cdf                                                      浏览器解析详解
